@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StudyPlanTasker</string>
+    <string name="salud">Hello World!</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="bt_submit_login">Login</string>
+    <string name="bt_insertTask">Insert</string>
+    <string name="error">Username or password incorrect</string>
+    <string name="register">Create a new Account</string>
+    <string name="registerL">Register</string>
+    <string name="todo">TO_DO</string>
+    <string name="doing">DOING</string>
+    <string name="done">DONE</string>
+    <string name="home">home</string>
+    <string name="add">add</string>
+    <string name="exit">exit</string>
+    <string name="all">tasks</string>
+    <string name="titleAdd">Title</string>
+    <string name="dateAdd">Date(dd/mm/yyyy)</string>
+    <string name="descriptionAdd">Description</string>
+    <string name="stateAdd">Current State</string>
+    <string name="TODO">TO DO</string>
+    <string name="DOING">DOING</string>
+    <string name="DONE">DONE</string>
+    <string name="HeaderInsert">NEW TASK</string>
+    <string name="HeaderInfo">TASK</string>
+    <string name="ChooseState">Select the new State:</string>
+
+
+
+    <string-array name="allStates">
+        <item>TO DO</item>
+        <item>DOING</item>
+        <item>DONE</item>
+    </string-array>
+</resources>

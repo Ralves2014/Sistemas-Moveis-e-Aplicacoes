@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532177688246",
+    "project_id": "studyplantasker",
+    "storage_bucket": "studyplantasker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532177688246:android:ce732e3608ca6713ef7817",
+        "android_client_info": {
+          "package_name": "com.example.studyplantasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532177688246-pkb7ulgb66hjmfintm31f7h1kprc6g9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studyplantasker",
+            "certificate_hash": "f510fa80f60e57d1299f199f9b7ee04dbb81f836"
+          }
+        },
+        {
+          "client_id": "532177688246-gq78878hf3diki83l212r55iahgfqckc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoNo1t16nfegBeY8Kg8KyLlJOE2acgDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532177688246-gq78878hf3diki83l212r55iahgfqckc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
